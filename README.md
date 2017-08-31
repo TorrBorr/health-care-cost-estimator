@@ -14,11 +14,11 @@ addition to the inpatient and outpatient data from the Medicare Provider Utiliza
 Physician and Other Supplier Database to obtain further information about the providers, and 2014 census data and 2014 health
 insurance coverage information for specific predictive community attributes.  
 
-![](https://github.com/TorrBorr/My_Projects/blob/master/Project_3/Images/State_Charges_Map.png)
+![](https://github.com/TorrBorr/health-care-cost-estimator/blob/master/Images/State_Charges_Map.png?raw=true)
 
 ![alt text][logo1]
 
-[logo1]: https://github.com/TorrBorr/My_Projects/blob/master/Project_3/Hospital_visit_cost_CO.png ""
+[logo1]: (https://github.com/TorrBorr/health-care-cost-estimator/blob/master/Images/Hospital_visit_cost_CO.png?raw=true ""
 
 
 #### Methods:
@@ -42,7 +42,7 @@ precision for each class and the number of predictions of class 1 that were actu
 in precision, with logistic regression and SVM far behind at values of 77% and 49%, respectively.
 
 ##### Confusion Matrix for Random Forest Model:
-<img src="https://github.com/TorrBorr/My_Projects/blob/master/Project_3/Random_Trees_Confusion_Martix.png" width="300">  
+<img src="https://github.com/TorrBorr/health-care-cost-estimator/blob/master/Images/Random_Trees_Confusion_Martix.png?raw=true" width="300">  
 
 
 
@@ -71,7 +71,7 @@ expensive and advanced treatments, and the greater number of uninsured patients 
 distribute to other patients to balance the costs.
 
 ##### Feature Importance for Random Forest Model:
-<img src="https://github.com/TorrBorr/My_Projects/blob/master/Project_3/Random_trees_feature_importance.png" width="500">
+<img src="https://github.com/TorrBorr/health-care-cost-estimator/blob/master/Images/Random_trees_feature_importance.png?raw=true" width="500">
 
 In the second model,  each provider's  cost  was compared to the state average rather than the national average.  The same
 factors are again seen as the strongest predictors.  Since the impact of the state is partially accounted for in the class
