@@ -14,7 +14,7 @@ addition to the inpatient and outpatient data from the Medicare Provider Utiliza
 Physician and Other Supplier Database to obtain further information about the providers, and 2014 census data and 2014 health
 insurance coverage information for specific predictive community attributes.  
 
-![](https://github.com/TorrBorr/My_Projects/blob/master/Project_3/State_Charges_Map.png)
+![](https://github.com/TorrBorr/My_Projects/blob/master/Project_3/Images/State_Charges_Map.png)
 
 ![alt text][logo1]
 
