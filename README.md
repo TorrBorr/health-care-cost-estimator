@@ -16,10 +16,6 @@ insurance coverage information for specific predictive community attributes.
 
 ![](https://github.com/TorrBorr/health-care-cost-estimator/blob/master/Images/State_Charges_Map.png?raw=true)
 
-[comment]: <>![alt text][logo1]
-
-[comment]: <> [logo1]: (https://github.com/TorrBorr/health-care-cost-estimator/blob/master/Images/Hospital_visit_cost_CO.png?raw=true ""
-
 <img src="https://github.com/TorrBorr/health-care-cost-estimator/blob/master/Images/Hospital_visit_cost_CO.png?raw=true" width="500">
 
 #### Methods:
