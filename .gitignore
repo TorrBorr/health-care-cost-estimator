@@ -1,10 +1,10 @@
 *.csv
-Model(State)-Copy1.ipynb
-Model(NationalAverage).ipynb
-Model(StateAveragemorevariables).ipynb
-Model(StateAveragewithState).ipynb
-Model(StateAverage).ipynb
+Model_State_Copy1.ipynb
+Model_NationalAverage.ipynb
+Model_StateAveragemorevariables.ipynb
+Model_StateAveragewithState.ipynb
+Model_StateAverage.ipynb
 Model2.ipynb
-Model3(IP+OP).ipynb
+Model3_IP_OP.ipynb
 CorrelationPlots.ipynb
 FinalPlots.ipynb
