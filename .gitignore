@@ -1,4 +1,5 @@
 *.csv
+*.tsv
 Model_State_Copy1.ipynb
 Model_NationalAverage.ipynb
 Model_StateAveragemorevariables.ipynb
